@@ -1,6 +1,7 @@
-package com.xyz.validators;
+package com.xyz.validators.validator;
 
 import com.sun.xml.internal.txw2.IllegalAnnotationException;
+import com.xyz.validators.annotation.CodeOfEnum;
 
 import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;

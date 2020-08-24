@@ -1,4 +1,6 @@
-package com.xyz.validators;
+package com.xyz.validators.annotation;
+
+import com.xyz.validators.validator.CodeOfEnumValidator;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;
